@@ -12,4 +12,4 @@ Simple Prop Damage assigns health to every prop in the server, meaning every pro
 We use a customized version of Gbombs 5 with the backdoor removed.
 
 ## Why does M9K feel different?
-Like Gbombs 5, we use a customized version of the addon. The base M9K addon is horribly balanced and makes only 3-5 guns viable. Assault rifles have high recoil and damage and reward precision shooting, while submachine guns have low damage and recoil but are easier to handle.
+Like Gbombs 5, we use a customized version of the addon. The base M9K addon is horribly balanced and makes only 3-5 guns viable. Our version of M9K intends to resolve this by making all weapons good in the right hands. As a result, it is a matter of player preferences. Assault rifles have high recoil and damage and reward precision shooting, while submachine guns have low damage and recoil but are easier to handle.
