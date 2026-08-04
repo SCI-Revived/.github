@@ -10,13 +10,14 @@ The following are a series of rules pertaining to specific aspects of the SCI Re
 6. Do not attempt to lag or crash the server.
 7. Do not derail other people's trains.
 
-## PVP Rules
-These rules pertain to all PVP related matters. NOTE: This server uses Simple Prop Damage.
+## PVP/Base Rules
+These rules pertain to all PVP and Base related matters. NOTE: This server uses Simple Prop Damage. Props can only be damaged with explosives.
 
 1. Do not abuse build/pvp mode to ambush players or to escape combat.
-2. Do not spam Gbombs.
-3. Do not spawnkill.
-4. Do not set spawn inside bases without the owner's permission.
-5. Do not set spawn in close proximity to a base you are attacking. Leave a reasonable distance between your spawn and the base.
-6. All Bases must have an entrance either secured with a keypad door or open.
-7. Do not make indestructible bases.
+2. Do not spam Gbombs or shoot other players' Gbombs.
+3. Do not shoot grounded LVS or spawncamp LVS (Ex. Shooting them the moment they take off)
+4. Do not spawnkill.
+5. Do not set spawn inside bases without the owner's permission.
+6. Do not set spawn in close proximity to a base you are attacking. Leave a reasonable distance between your spawn and the base.
+7. All Bases must have an entrance either secured with a keypad door or open. Keypads should open doors for 3 seconds minimum.
+8. Do not make indestructible bases.
