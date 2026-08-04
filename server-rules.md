@@ -17,5 +17,6 @@ These rules pertain to all PVP related matters. NOTE: This server uses Simple Pr
 2. Do not spam Gbombs.
 3. Do not spawnkill.
 4. Do not set spawn inside bases without the owner's permission.
-5. All Bases must have an entrance either secured with a keypad door or open.
-6. Do not make indestructible bases.
+5. Do not set spawn in close proximity to a base you are attacking. Leave a reasonable distance between your spawn and the base.
+6. All Bases must have an entrance either secured with a keypad door or open.
+7. Do not make indestructible bases.
