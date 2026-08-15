@@ -10,7 +10,7 @@ The following are a series of rules pertaining to specific aspects of the SCI Re
 6. Do not attempt to lag or crash the server.
 7. Do not derail other people's trains.
 8. Do not attempt to circumvent spawnmenu restrictions.
-9. If a player asks you to stop, you must stop.
+9. If a player asks you to stop, you must stop (enforcement is up to staff discretion).
 
 ## PVP/Base Rules
 NOTE: This server uses Simple Prop Damage. Props can only be damaged with explosives.
