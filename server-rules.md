@@ -1,4 +1,4 @@
-# SCI Revived Server Rules
+# Simply Classic Insanity Server Rules
 The following are a series of rules pertaining to specific aspects of the SCI Revived Server. Please read each category carefully INCLUDING THE FAQ!
 
 ## General Rules
