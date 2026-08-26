@@ -17,7 +17,7 @@ The following are a series of rules pertaining to specific aspects of the SCI Re
 ## PVP/Base Rules
 NOTE: This server uses Simple Prop Damage. Props can only be damaged with explosives.
 
-1. Do not abuse build/pvp mode to ambush players or to escape combat.
+1. Do not abuse build/pvp mode to gain an unfair advantage in combat (Ex. escaping combat, ambushing players, using buildmode to deliver gbombs, etc.)
 2. Do not spam Gbombs or use the physgun to attack players with Gbombs.
 3. Do not spawnkill or spawntrap.
 4. Do not despawn simfphys/LVS vehicles to escape death.
