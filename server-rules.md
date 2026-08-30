@@ -1,5 +1,8 @@
 # Simply Classic Insanity Server Rules
-The following are a series of rules pertaining to specific aspects of the SCI Revived Server. Please read each category carefully INCLUDING THE FAQ!
+The following are a series of rules pertaining to specific aspects of the SCI Revived Server.
+
+## NOTE
+This server uses many modified versions of addons. Please read the [FAQ](https://github.com/SCI-Revived/.github/blob/main/faq.md)
 
 ## General Rules
 1. Do not attempt to propkill, propfly, or propblock. These are generally referred to as prop abuse.
@@ -12,7 +15,8 @@ The following are a series of rules pertaining to specific aspects of the SCI Re
 8. Do not derail other people's trains.
 9. Do not attempt to circumvent spawnmenu restrictions.
 10. Do not attempt to enter the skybox of the map.
-11. If a player asks you to stop, you must stop (enforcement is up to staff discretion). RDM is excluded.
+11. If a player asks you to stop, you must stop (enforcement is up to staff discretion).
+12. RDM is allowed.
 
 ## PVP/Base Rules
 NOTE: This server uses Simple Prop Damage. Props can only be damaged with explosives.
