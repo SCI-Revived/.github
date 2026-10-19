@@ -1,5 +1,6 @@
 # Simply Classic Insanity Server Rules
-The following are a series of rules pertaining to specific aspects of the SCI Revived Server.
+
+The following are the rules for Simply Classic Insanity. To ensure an enjoyable experience, please read the rules thoroughly.
 
 ## NOTE
 This server uses many modified versions of addons. Please read the [FAQ](https://github.com/SCI-Revived/.github/blob/main/faq.md)
